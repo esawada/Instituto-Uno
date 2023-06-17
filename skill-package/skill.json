@@ -1,0 +1,35 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:152507314658:function:9b54901c-7edd-431c-bfdb-dfa9993d9b7e:Release_0"
+        },
+        "regions": {
+          "EU": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:eu-west-1:152507314658:function:9b54901c-7edd-431c-bfdb-dfa9993d9b7e:Release_0"
+            }
+          },
+          "NA": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-east-1:152507314658:function:9b54901c-7edd-431c-bfdb-dfa9993d9b7e:Release_0"
+            }
+          },
+          "FE": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-west-2:152507314658:function:9b54901c-7edd-431c-bfdb-dfa9993d9b7e:Release_0"
+            }
+          }
+        }
+      }
+    },
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "name": "Instituto Uno"
+        }
+      }
+    }
+  }
+}
